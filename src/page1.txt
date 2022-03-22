@@ -1,0 +1,5 @@
+
+Hi
+Hope you are well
+Today, we have started learning Git.
+So far, it has been a roller-coaster ride with its installation
