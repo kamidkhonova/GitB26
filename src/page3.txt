@@ -1,5 +1,6 @@
 
 Today was fun class
+**********************************************************
 it's interesting how things are moving fast.
-
+____________________________________________________________________
  Started from Java to Git now
