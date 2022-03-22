@@ -1,5 +1,9 @@
 
 
 Hi!
+
 I had instructor Mehmet help me with Git Set up.
-He was really professional
+
+He was really professional.
+
+I added some spacing here.
